@@ -89,8 +89,8 @@ spring.jpa.hibernate.ddl-auto=update
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/todo-list-springboot.git
-cd todo-list-springboot
+git clone https://github.com/fatemesoleymanian/ToDoListApp_With_Java.git
+cd ToDoListApp_With_Java
 ```
 
 ### 2. Setup the database
@@ -115,7 +115,7 @@ You can run the application via your IDE (IntelliJ) or via terminal:
 
 ## 📸 UI Preview
 
-![img.png](img_1.png)
+![img.png](img.png)
 *(Add a real screenshot here when you deploy or run the app locally)*
 
 ---
